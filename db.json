@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "aaaaa",
+      "price": 12,
+      "quantity": 5,
+      "picture": "https://cdn.shopify.com/s/files/1/0528/7480/5443/products/tshirt-merci-paris-bleu-front_600x.jpg?v=1653385654",
+      "nbrLike": 3,
+      "id": 1
+    },
+    {
+      "picture": "https://celio.tn/media/catalog/product/cache/5a0760344b556848096095244e2a63e8/p/r/product-media-import-1116462-3-product_1.jpg",
+      "name": "rrrrrr",
+      "price": 12,
+      "quantity": 108,
+      "nbrLike": 5,
+      "id": 3
+    },
+    {
+      "name": "lkklkklllk",
+      "price": 25,
+      "quantity": 30,
+      "picture": "https://celio.tn/media/catalog/product/cache/5a0760344b556848096095244e2a63e8/t/-/t-shirt-col-rond-100-coton-color-block-bordeaux-1116573-3-product_1.jpg",
+      "nbrLike": 5,
+      "id": 5
+    }
+  ]
+}
